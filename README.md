@@ -12,6 +12,7 @@ It follows the professional project initialization process described here:
 The goal is to practice **repeatable, professional workflows** for Python projects,  
 using GitHub for version control and project publication.
 
+-DATA SET used PENGUINS (datafun-06-eda\data\penguins.csv)
 ---
 
 ## ⚙️ Initialization Process
