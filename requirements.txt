@@ -1,4 +1,12 @@
+# Project: datafun-06-eda
+# Author: Michael J Moore
+# Date: September 26, 2025
+# 
+# This file lists the external dependencies required for the project.
+# Install with: pip install -r requirements.txt
+
 jupyterlab
+numpy
 pandas
 pyarrow
 matplotlib
